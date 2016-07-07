@@ -6,4 +6,5 @@
 	_textField.placeholderColor =nil;
 	//如果你想设置其他颜色，只需要使用[UIColor orangeColor]就可以了
 
-	
+####效果图
+![image](http://ww4.sinaimg.cn/large/006aAFlvgw1f5l686rs07g30b80kwaa6.gif)
